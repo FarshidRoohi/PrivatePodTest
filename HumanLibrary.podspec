@@ -1,10 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'HumanLibrary'
 s.module_name  = 'HumanLibrary'
-s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 s.version='1.0.0'
 s.summary      = 'Human Libaray Test'
 s.description  = <<-DESC
@@ -22,9 +18,7 @@ s.author       = { 'FarshidRoohi' => 'farshid.roohi.a@gmail.com' }
 s.source = { :http => 'https://github.com/FarshidRoohi/PrivatePodTest/blob/master/HumanLibrary.framework' }
 
 s.platform = :ios
-s.ios.deployment_target = '9.0'
+s.ios.deployment_target = '10.0'
 
-s.frameworks = 'MobileCoreServices', 'SystemConfiguration', 'CoreData'
-#s.weak_framework = 'UserNotifications'
 s.vendored_frameworks  = 'HumanLibrary.framework'
 end

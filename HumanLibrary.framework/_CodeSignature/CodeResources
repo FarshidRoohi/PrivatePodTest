@@ -14,39 +14,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LSceDrvZudG1OFNMLZCxaADFm1A=
+		CS3M2PN9MyIFWMPBeBaGLbtV4kM=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		0kzy8lsGdMkzMLH0AI+pBmZFsMs=
+		alJ7n+yzV1bd99nvmNmUfa54o84=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		0kzy8lsGdMkzMLH0AI+pBmZFsMs=
+		alJ7n+yzV1bd99nvmNmUfa54o84=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5miSIXvVbMt+pJWWYic3oSjJxqE=
+		gnvk2eLD14SmiXsZbUOa9jBN3MA=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qlOzLM1/9PMLSZDJbqglLP+FImU=
+		VG4pnjXVk0Wt8Aad1/omr+dx22M=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NfXk1D7dPiDaRqT+3SuMVRLaxJM=
+		AiOSAkN+MryUhu9IeHaPrkIZupU=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		5miSIXvVbMt+pJWWYic3oSjJxqE=
+		gnvk2eLD14SmiXsZbUOa9jBN3MA=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		qlOzLM1/9PMLSZDJbqglLP+FImU=
+		VG4pnjXVk0Wt8Aad1/omr+dx22M=
 		</data>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		NfXk1D7dPiDaRqT+3SuMVRLaxJM=
+		AiOSAkN+MryUhu9IeHaPrkIZupU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,6 +57,10 @@
 	<dict>
 		<key>Headers/HumanLibrary-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			zhO4Mws8bCpzGYV1jrH0HdlpqUQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			opTqGwRJe4vtb6VAroqgWEy4hnpTS4cKYaY739aMlJQ=
@@ -64,6 +68,10 @@
 		</dict>
 		<key>Headers/HumanLibrary.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bMXLyaD2J+FC6iA+/LL9CpOY0T8=
+			</data>
 			<key>hash2</key>
 			<data>
 			gP+t/+mxY7tmH+bQfftPMtVwu6NowmKXG0CZpMy1CW4=
@@ -71,62 +79,98 @@
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			alJ7n+yzV1bd99nvmNmUfa54o84=
+			</data>
 			<key>hash2</key>
 			<data>
-			jZa2oCpHZbhwBMTtKZqOCsOv51/DUpHGsMU1j/O6fsg=
+			LYI3uMo1IPH+f7Wa3ZCXbuPtoirjYrE3BdrXM7rTBIM=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			alJ7n+yzV1bd99nvmNmUfa54o84=
+			</data>
 			<key>hash2</key>
 			<data>
-			jZa2oCpHZbhwBMTtKZqOCsOv51/DUpHGsMU1j/O6fsg=
+			LYI3uMo1IPH+f7Wa3ZCXbuPtoirjYrE3BdrXM7rTBIM=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			gnvk2eLD14SmiXsZbUOa9jBN3MA=
+			</data>
 			<key>hash2</key>
 			<data>
-			QtBm+XlY4jcYKMrpYYN+PfnRdaCQvqqXC9+5NgtiwxU=
+			bERXmvyXkGEdzoOtRjGHfgX0nzAiXfdaRtZUyY7Zk+o=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VG4pnjXVk0Wt8Aad1/omr+dx22M=
+			</data>
 			<key>hash2</key>
 			<data>
-			6+6VKQvTyJHcaH4ZqhYtO80pMkqGIqJAe4WurHNF+VI=
+			8bs3Sbu6d8B4ztLnohglB4wlkkS1vi6wL0+pPKHAWm8=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AiOSAkN+MryUhu9IeHaPrkIZupU=
+			</data>
 			<key>hash2</key>
 			<data>
-			P6wnV6G4q8oh/iHe3dYnuB47R9tcarpgubZA0EJebRI=
+			qtVdUYF29wy/jDWZDFNl++t8YybVmYAk1diNAG+hjk4=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			gnvk2eLD14SmiXsZbUOa9jBN3MA=
+			</data>
 			<key>hash2</key>
 			<data>
-			QtBm+XlY4jcYKMrpYYN+PfnRdaCQvqqXC9+5NgtiwxU=
+			bERXmvyXkGEdzoOtRjGHfgX0nzAiXfdaRtZUyY7Zk+o=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VG4pnjXVk0Wt8Aad1/omr+dx22M=
+			</data>
 			<key>hash2</key>
 			<data>
-			6+6VKQvTyJHcaH4ZqhYtO80pMkqGIqJAe4WurHNF+VI=
+			8bs3Sbu6d8B4ztLnohglB4wlkkS1vi6wL0+pPKHAWm8=
 			</data>
 		</dict>
 		<key>Modules/HumanLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AiOSAkN+MryUhu9IeHaPrkIZupU=
+			</data>
 			<key>hash2</key>
 			<data>
-			P6wnV6G4q8oh/iHe3dYnuB47R9tcarpgubZA0EJebRI=
+			qtVdUYF29wy/jDWZDFNl++t8YybVmYAk1diNAG+hjk4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VWMy4snH2gmjf2WrocwgxmGpOgU=
+			</data>
 			<key>hash2</key>
 			<data>
 			2KtsYdhTZfKc/q4W/h8KLUONeaKwTiElpC2nYEsbgSw=
