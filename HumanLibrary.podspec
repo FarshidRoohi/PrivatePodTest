@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 s.name         = 'HumanLibrary'
 s.module_name  = 'HumanLibrary'
-s.version='1.0.1'
+s.version='1.1.1'
 s.summary      = 'Human Libaray Test'
 s.description  = <<-DESC
 Test Description some description copy copy copy copy, Test Description some description copy copy copy copy
@@ -20,5 +20,5 @@ s.source = { :http => 'https://github.com/FarshidRoohi/PrivatePodTest/blob/maste
 s.platform = :ios
 s.ios.deployment_target = '10.0'
 
-s.vendored_frameworks  = 'HumanLibrary'
+#s.vendored_frameworks  = 'HumanLibrary.framework'
 end
