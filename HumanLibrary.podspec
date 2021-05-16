@@ -4,7 +4,7 @@ s.module_name  = 'HumanLibrary'
 s.version='1.0.0'
 s.summary      = 'Human Libaray Test'
 s.description  = <<-DESC
-Test Description
+Test Description some description copy copy copy copy, Test Description some description copy copy copy copy
 DESC
 
 s.requires_arc = true
