@@ -19,7 +19,7 @@ Copyright 2021 - present FarshidRoohi. All rights reserved.
 LICENSE
 }
 s.author       = { 'FarshidRoohi' => 'farshid.roohi.a@gmail.com' }
-s.source = { :http => 'https://github.com/FarshidRoohi/PrivatePodTest/blob/master/HumanLibrary.framework' }
+s.source = { :http => 'https://github.com/FarshidRoohi/PrivatePodTest/blob/master/HumanLibrary' }
 
 s.platform = :ios
 s.ios.deployment_target = '9.0'
